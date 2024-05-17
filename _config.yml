@@ -3,11 +3,11 @@ markdown: kramdown
 highlighter: rouge
 
 # Setup
-title: PAASTA Community
-tagline: Website for the PAASTA Community
+title: LAARD Community
+tagline: Website for the LAARD Community
 description: |
   Website for the PAASTA Community
-url: https://PAASTA-community.github.io/
+url: https://laardcommunity.github.io/
 baseurl:
   "/"
   # the optional subpath of your site, e.g. "/blog"
@@ -19,7 +19,7 @@ remote_theme: fongandrew/hydeout
 
 author:
   name: "PAASTA Community"
-  url: https://twitter.com/PAASTAcommunity
+  url: https://laardcommunity.github.io/
 
 paginate: 5
 # paginate_path:    '/page:num'
