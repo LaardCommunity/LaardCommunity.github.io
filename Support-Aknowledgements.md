@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support and Acknowledgements
+title: Acknowledgements
 sidebar_link: true
 ---
 
