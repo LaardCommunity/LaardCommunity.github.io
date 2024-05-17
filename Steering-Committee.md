@@ -5,6 +5,21 @@ sidebar_link: true
 ---
 Pictures, roles and names of the steering committee will appear here
 
+The composition of the current steering committee is as follows:
+
+**Mélanie Roffet-Salque** (UK) as Chair
+
+**Karine Taché** (Canada) as vice-Chair/Treasurer
+
+**Léa Drieu** (France) as Secretary and member of the communications team
+
+**Adrià Breu** (Spain) as member of the communications team
+
+**Shinya Shoda** (Japan) as member of the engagement team
+
+**Julia Becher** (UK) as member of the engagement team
+
+
 ## Roles
 
 **Management team**
