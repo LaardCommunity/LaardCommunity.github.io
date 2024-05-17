@@ -1,15 +1,17 @@
-<div id="sidebar">
+<div id="sidebar" style="height:100%">
+ 
   <header>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
-      <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
-        {{ site.title }}
+        <a href="/">
+  <img src="" alt="PAASTA Community" class="center" role="log"/>
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
     <p class="lead">{{ site.description }}</p>
   </header>
+  
   {% include sidebar-nav-links.html %}
 
   {% if site.version %}
@@ -17,5 +19,6 @@
   {% endif %}
 
   {% include sidebar-icon-links.html %}
-  {% include copyright.html %}
+  <p class='copyright'> &copy; {{ site.time | date: '%Y' }}.
+  <a href="{{ "/LICENSE.md" | relative_url }}">MIT License.</a>
 </div>
