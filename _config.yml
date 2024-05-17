@@ -3,10 +3,10 @@ markdown: kramdown
 highlighter: rouge
 
 # Setup
-title: LAARD Community
+title: LAARD
 tagline: Website for the LAARD Community
 description: |
-  Website for the PAASTA Community
+  Website for the LAARD Community
 url: https://laardcommunity.github.io/
 baseurl:
   "/"
