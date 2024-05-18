@@ -6,7 +6,7 @@ sidebar_link: true
 
 ## TL;DR
 
-All attendees and members of PAASTA are expected to be respectful towards all members regardless of background, and actively participate in creating a welcoming and friendly community.
+All attendees and members of LAARD are expected to be respectful towards all members regardless of background, and actively participate in creating a welcoming and friendly community.
 Unacceptable or illegal behaviour will not be tolerated and the organisers reserve the right to remove anyone violating the Code of Conduct from both in-person or online channels.
 If at any point you feel unsafe or the code of conduct is violated, please contact the designated safety officers: (yet to be determined as of October 2023) who will deal with any issues respectfully and anonymously, as required.
 
@@ -14,7 +14,7 @@ If at any point you feel unsafe or the code of conduct is violated, please conta
 
 ## 1. Purpose
 
-A primary goal of PAASTA is to be inclusive to the largest number of contributors and to welcome those from varied and diverse backgrounds. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socio-economic status, religion (or lack thereof), and/or any other personal identities.
+A primary goal of LAARD is to be inclusive to the largest number of contributors and to welcome those from varied and diverse backgrounds. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socio-economic status, religion (or lack thereof), and/or any other personal identities.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour.
 
@@ -67,13 +67,13 @@ Additionally, our safety officers are available to help attendees engage with lo
 
 ## 6. Scope
 
-We expect all participants (contributors, paid or otherwise, and other guests) to abide by this Code of Conduct in all community venues - online and in-person - as well as in all interpersonal one-on-one communications pertaining to PAASTA business.
+We expect all participants (contributors, paid or otherwise, and other guests) to abide by this Code of Conduct in all community venues - online and in-person - as well as in all interpersonal one-on-one communications pertaining to LAARD business.
 
 ### 7. Contact info
 
-The PAASTA safety officers are:
-- Liam Lanigan, University of Copenhagen (liamlanigan@palaeome.org)
-- Virginie Sinet-Mathiot, University of Bordeaux (virginie.sinetmathiot@palaeome.org)
+The LAARD safety officers are:
+- Name, University (mail)
+- Name, University (mail)
 
 Apart from contacting the safety officers directly an anonymous reporting form is also in the making, which will be shared in this document once available.
 
