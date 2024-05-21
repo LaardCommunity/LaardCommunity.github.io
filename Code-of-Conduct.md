@@ -56,7 +56,7 @@ Unacceptable behaviour from any participant, including those with decision-makin
 
 Anyone asked to stop unacceptable behaviour is expected to comply immediately.
 
-If a participant engages in unacceptable behaviour, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from PAASTA without warning (and without refund in the case of any payments).
+If a participant engages in unacceptable behaviour, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from LAARD without warning (and without refund in the case of any payments).
 
 ## 5. Reporting Guidelines
 
