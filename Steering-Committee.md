@@ -14,21 +14,21 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/melanie.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mélanie Roffet-Salque</p>
 <p class="role"><a href="mailto:">Chair</a></p>
 <p>UK</p>
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/karine.jpg/" | relative_url }}" alt="Avatar" /></a></div>
 <p>Karine Taché</p>
 <p class="role"><a href="mailto:">vice-Chair/Treasurer</a></p>
 <p>Canada</p>
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/lea.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Léa Drieu</p>
 <p class="role"><a href="mailto:">Secretary and member of the communications team</a></p>
 <p>France</p>
@@ -39,14 +39,14 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/shinya.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Shinya Shoda</p>
 <p class="role"><a href="mailto:haam.community2023+engagement@gmail.com">Engagement team</a></p>
 <p>Japan</p>
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/julia.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Julia Becher</p>
 <p class="role"><a href="mailto:haam.community2023+treasurer@gmail.com">Engagement team</a></p>
 <p>UK</p>
