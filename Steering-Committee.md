@@ -57,7 +57,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/adria.jpeg/" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/adria.jpeg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Adrià Breu</p>
 <p class="role"><a href="">Communications team/Webmaster</a></p>
 <p>Spain</p>
