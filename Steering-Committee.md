@@ -21,7 +21,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/karine.jpg/" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/karine.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Karine Taché</p>
 <p class="role"><a href="">vice-Chair/Treasurer</a></p>
 <p>Canada</p>
@@ -39,7 +39,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/shinya.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/shinya.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Shinya Shoda</p>
 <p class="role"><a href="">Engagement team</a></p>
 <p>Japan</p>
