@@ -18,6 +18,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Mélanie Roffet-Salque</p>
 <p class="role"><a href="mailto:">Chair</a></p>
 <p>UK</p>
+  <p></p>
 </div>
 
 <div class ="member">
@@ -25,13 +26,16 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Karine Taché</p>
 <p class="role"><a href="">vice-Chair/Treasurer</a></p>
 <p>Canada</p>
+  <p></p>
 </div>
 
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/lea.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Léa Drieu</p>
-<p class="role"><a href="">Secretary and member of the communications team</a></p>
+<p class="role"><a href="">Secretary</a></p>
+<p class="role"><a href="">Communications team</a></p>
 <p>France</p>
+<p></p>
 </div>
 
 </div>
