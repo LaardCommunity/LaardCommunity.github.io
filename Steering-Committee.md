@@ -47,6 +47,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Shinya Shoda</p>
 <p class="role"><a href="">Engagement team</a></p>
 <p>Japan</p>
+  <p></p>
 </div>
 
 <div class ="member">
@@ -54,6 +55,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Julia Becher</p>
 <p class="role"><a href="">Engagement team</a></p>
 <p>UK</p>
+  <p></p>
 </div>
 
 <div class ="member">
@@ -61,22 +63,13 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Adrià Breu</p>
 <p class="role"><a href="">Communications team/Webmaster</a></p>
 <p>Spain</p>
+  <p></p>
 </div>
 
 </div>
 
 
-**Mélanie Roffet-Salque** (UK) as Chair
 
-**Karine Taché** (Canada) as vice-Chair/Treasurer
-
-**Léa Drieu** (France) as Secretary and member of the communications team
-
-**Adrià Breu** (Spain) as member of the communications team
-
-**Shinya Shoda** (Japan) as member of the engagement team
-
-**Julia Becher** (UK) as member of the engagement team
 
 
 ## Roles
