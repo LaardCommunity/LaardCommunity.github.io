@@ -3,9 +3,64 @@ layout: page
 title: Steering Committee
 sidebar_link: true
 ---
-Pictures, roles and names of the steering committee will appear here
 
 The composition of the current steering committee is as follows:
+
+<!-- 
+DEV NOTES:
+div class "avatar" blocks define the number of profiles in each row. 
+They contain div class "member" blocks that have the picture of each member followed by their info.
+-->
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mélanie Roffet-Salque</p>
+<p class="role"><a href="mailto:">Chair</a></p>
+<p>UK</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<p>Karine Taché</p>
+<p class="role"><a href="mailto:">vice-Chair/Treasurer</a></p>
+<p>Canada</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<p>Léa Drieu</p>
+<p class="role"><a href="mailto:">Secretary and member of the communications team</a></p>
+<p>France</p>
+</div>
+
+</div>
+
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<p>Shinya Shoda</p>
+<p class="role"><a href="mailto:haam.community2023+engagement@gmail.com">Engagement team</a></p>
+<p>Japan</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<p>Julia Becher</p>
+<p class="role"><a href="mailto:haam.community2023+treasurer@gmail.com">Engagement team</a></p>
+<p>UK</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<p>Adrià Breu</p>
+<p class="role"><a href="mailto:">Communications team/Webmaster</a></p>
+<p>Spain</p>
+</div>
+
+</div>
+
 
 **Mélanie Roffet-Salque** (UK) as Chair
 
