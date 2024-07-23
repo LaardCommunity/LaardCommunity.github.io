@@ -16,7 +16,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/melanie.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mélanie Roffet-Salque</p>
-<p class="role"><a href="mailto:">Chair</a></p>
+<p class="role"><a href="">Chair</a></p>
 <p>UK</p>
   <p></p>
 </div>
@@ -61,7 +61,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/adria.jpeg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Adrià Breu</p>
-<p class="role"><a href="">Communications team/Webmaster</a></p>
+<p class="role"><a href="">Communications team</a></p>
 <p>Spain</p>
   <p></p>
 </div>
