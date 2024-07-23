@@ -6,7 +6,6 @@ sidebar_link: true
 <!-- Last edit of this page: 10-10-2023> -->
 
 <img src="/assets/media/LOGO3.png" class="center">
-
 We are "Lipid Analysis for Archaeological Research Development" (LAARD), a collective of scholars focused on the analysis of ancient lipid residues resulting from human activities.
 
 Our mission at LAARD is to cultivate a welcoming and collaborative atmosphere for researchers in the field of lipid residue analysis. We strive to encourage inquiry, share knowledge, and champion the principles of open and cooperative science.
