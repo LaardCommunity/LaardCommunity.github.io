@@ -27,7 +27,7 @@ Please join us on our:
 - [**mastodon**](htthttps://genomic.social/@PAASTA_community) for latest news, polls, and publications.
 -->
 
-to keep get involved and keep up-to-date!
+to get involved and keep up-to-date!
 
 If you have any questions or want to reach out for more info about our LAARD community, [**the steering committee**](https://laardcommunity.github.io/Steering-Committee/) is here to assist you.
 
