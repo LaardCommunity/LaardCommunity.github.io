@@ -24,7 +24,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/karine.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Karine Taché</p>
-<p class="role"><a href="">vice-Chair/Treasurer</a></p>
+<p class="role"><a href="karine.tache@hst.ulaval.ca">vice-Chair/Treasurer</a></p>
 <p>Canada</p>
   <p></p>
 </div>
@@ -79,7 +79,7 @@ They contain div class "member" blocks that have the picture of each member foll
 Formed by the chair, the vice-chair and the secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
 - **Chair** : leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the LAARD community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the communication and engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end.
 -	**Vice-Chair/Treasurer**: Will support the Chair and fill in when the Chair is not available. Will also identify grant opportunities and manage any funds available. Distribution of work can be discussed between the Chair and Vice-Chair.
-- **Secretary**: Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
+- **Secretary**: Takes meeting minutes, sends them out when they are ready, makes sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
   
 **Communications team**
 
