@@ -25,7 +25,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/karine.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Karine Taché</p>
 <p class="role"><a href="mailto:karine.tache@hst.ulaval.ca">vice-Chair/Treasurer</a></p>
-<p class="role"><a href="mailto:haam.community2023+secretary@gmail.com">Secretary</a></p>
 <p>Canada</p>
   <p></p>
 </div>
