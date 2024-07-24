@@ -35,17 +35,17 @@ The following behaviours are expected and requested of all community members:
 
 The following behaviours are considered harassment and are unacceptable within our community, both in person and online:
 
--Violence, threats of violence, or violent language directed against another person or persons.
--Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language.
--Posting or displaying sexually explicit or violent material.
--Posting or threatening to post other people’s personally identifying information (“doxxing”).
--Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
--Inappropriate photography or recording.
--Inappropriate physical contact. You should have someone’s consent before touching them.
--Unwelcome sexual attention. This includes, sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances.
--Deliberate intimidation, stalking, or following (online or in person).
--Advocating for, or encouraging, any of the above behaviour.
--Sustained disruption of community events, including talks and presentations.
+- Violence, threats of violence, or violent language directed against another person or persons.
+- Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language.
+- Posting or displaying sexually explicit or violent material.
+- Posting or threatening to post other people’s personally identifying information (“doxxing”).
+- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+- Inappropriate photography or recording.
+- Inappropriate physical contact. You should have someone’s consent before touching them.
+- Unwelcome sexual attention. This includes, sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances.
+- Deliberate intimidation, stalking, or following (online or in person).
+- Advocating for, or encouraging, any of the above behaviour.
+- Sustained disruption of community events, including talks and presentations.
 
 
 Furthermore, we will follow all legal guidance from the [European Commission on non-discrimination](https://fra.europa.eu/sites/default/files/fra_uploads/fra-2018-handbook-non-discrimination-law-2018_en.pdf)
