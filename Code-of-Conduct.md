@@ -75,7 +75,7 @@ The LAARD safety officers are:
 - Léa Drieu, CNRS-CEPAM <a href="mailto:lea.drieu@cepam.cnrs.fr">contact</a>
 - Name, University (mail)
 
-Apart from contacting the safety officers directly an anonymous reporting form is also in the making, which will be shared in this document once available.
+Apart from contacting the safety officers directly you can use our annonymous <a href="(https://forms.gle/a699frSRpPVKZjnJ7)">form</a>.
 
 ### 8. License and attribution
 
