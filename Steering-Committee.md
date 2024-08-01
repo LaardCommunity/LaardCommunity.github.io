@@ -14,7 +14,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/melanie.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.bristol.ac.uk/people/person/Melanie-Roffet-Salque-6bd37ac0-a205-408c-af56-a0bdaeb5a5f6/" target="_blank"><img src="{{ "/assets/media/melanie.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mélanie Roffet-Salque</p>
 <p class="role"><a href="">Chair</a></p>
 <p>UK</p>
@@ -22,7 +22,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/karine.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.flsh.ulaval.ca/notre-faculte/repertoire-du-personnel/karine-tache" target="_blank"><img src="{{ "/assets/media/karine.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Karine Taché</p>
 <p class="role"><a href="">vice-Chair/Treasurer</a></p>
 <p>Canada</p>
@@ -30,7 +30,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/lea.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.cepam.cnrs.fr/contact/lea-drieu/" target="_blank"><img src="{{ "/assets/media/lea.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Léa Drieu</p>
 <p class="role"><a href="">Secretary</a></p>
 <p class="role"><a href="">Communications team</a></p>
@@ -43,7 +43,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/shinya.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://researchmap.jp/shoda_shinya?lang=en" target="_blank"><img src="{{ "/assets/media/shinya.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Shinya Shoda</p>
 <p class="role"><a href="">Engagement team</a></p>
 <p>Japan</p>
@@ -51,7 +51,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/julia.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://sites.google.com/palaeome.org/chemarch/esr-projects/esr-9-julia-becher" target="_blank"><img src="{{ "/assets/media/julia.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Julia Becher</p>
 <p class="role"><a href="">Engagement team</a></p>
 <p>UK</p>
@@ -59,7 +59,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/adria.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://portalrecerca.uab.cat/en/persons/adria-breu-barcons-2" target="_blank"><img src="{{ "/assets/media/adria.jpeg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Adrià Breu</p>
 <p class="role"><a href="">Communications team</a></p>
 <p>Spain</p>
