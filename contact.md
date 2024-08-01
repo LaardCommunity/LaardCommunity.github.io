@@ -15,15 +15,15 @@ Form to join the mailing list:
 
 **Steering committee**
 
-Mélanie Roffet-Salque
+Mélanie Roffet-Salque <a href="mailto:Melanie.Salque@bristol.ac.uk">Melanie.Salque@bristol.ac.uk</a>
 
 Karine Taché: <a href="mailto:karine.tache@hst.ulaval.ca">karine.tache@hst.ulaval.ca</a>
 
-Léa Drieu: <a href="mailto:"></a>
+Léa Drieu: <a href="mailto:lea.drieu@cepam.cnrs.fr">lea.drieu@cepam.cnrs.fr</a>
 
-Shinya Shoda: <a href="mailto:"></a>
+Shinya Shoda: <a href="mailto:shinya.shoda@york.ac.uk">shinya.shoda@york.ac.uk</a>
 
-Julia Becher: <a href="mailto:"></a>
+Julia Becher: <a href="mailto:julia.becher@palaeome.org">julia.becher@palaeome.org</a>
 
 Adrià Breu: <a href="mailto:adria.breu@uab.cat">adria.breu@uab.cat</a>
 
