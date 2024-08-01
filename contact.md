@@ -11,7 +11,7 @@ sidebar_link: true
 
 Group mail: <a href="mailto:laard.community@gmail.com">laard.community@gmail.com</a>
 
-Form to join the mailing list: [**mailing list**](https://forms.gle/N3255E9QVPZkDdB57)
+To join the mailing list: [**Form**](https://forms.gle/N3255E9QVPZkDdB57)
 
 **Steering committee**
 
