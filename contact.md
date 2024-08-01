@@ -6,7 +6,6 @@ sidebar_link: true
 
 ## Contact details
 
-
 **Community**
 
 Group mail: <a href="mailto:laard.community@gmail.com">laard.community@gmail.com</a>
