@@ -13,7 +13,7 @@ Group mail: <a href="mailto:laard.community@gmail.com">laard.community@gmail.com
 
 To join the mailing list: [**Form**](https://forms.gle/N3255E9QVPZkDdB57)
 
-**Steering committee**
+<!--**Steering committee**
 
 Mélanie Roffet-Salque <a href="mailto:Melanie.Salque@bristol.ac.uk">Melanie.Salque@bristol.ac.uk</a>
 
@@ -25,7 +25,7 @@ Shinya Shoda: <a href="mailto:shinya.shoda@york.ac.uk">shinya.shoda@york.ac.uk</
 
 Julia Becher: <a href="mailto:julia.becher@palaeome.org">julia.becher@palaeome.org</a>
 
-Adrià Breu: <a href="mailto:adria.breu@uab.cat">adria.breu@uab.cat</a>
+Adrià Breu: <a href="mailto:adria.breu@uab.cat">adria.breu@uab.cat</a>-->
 
 
 
