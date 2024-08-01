@@ -9,9 +9,9 @@ sidebar_link: true
 
 **Group**
 
-Group mail: <a href="mailto:"></a>
+Group mail: <a href="mailto:laard.community@gmail.com">laard.community@gmail.com</a>
 
-Form to join the mailing list: <a href="mailto:"></a>
+Form to join the mailing list: [**mailing list**](https://forms.gle/N3255E9QVPZkDdB57)
 
 **Steering committee**
 
