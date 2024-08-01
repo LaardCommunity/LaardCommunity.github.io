@@ -72,7 +72,7 @@ We expect all participants (contributors, paid or otherwise, and other guests) t
 ### 7. Contact info
 
 The LAARD safety officers are:
-- Name, University (mail)
+- Léa Drieu, CNRS-CEPAM <a href="mailto:lea.drieu@cepam.cnrs.fr">contact</a>
 - Name, University (mail)
 
 Apart from contacting the safety officers directly an anonymous reporting form is also in the making, which will be shared in this document once available.
