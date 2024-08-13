@@ -31,6 +31,6 @@ Adrià Breu: <a href="mailto:adria.breu@uab.cat">adria.breu@uab.cat</a>-->
 
 **Safety officers**
 
-Léa Drieu: [**Form**](https://forms.gle/a699frSRpPVKZjnJ7)
+Léa Drieu/Jasmine Lundy: [**Form**](https://forms.gle/a699frSRpPVKZjnJ7)
 
 
