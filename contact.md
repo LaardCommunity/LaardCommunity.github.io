@@ -30,7 +30,8 @@ Adrià Breu: <a href="mailto:adria.breu@uab.cat">adria.breu@uab.cat</a>-->
 
 
 **Safety officers**
-
-Léa Drieu/Jasmine Lundy: [**Form**](https://forms.gle/a699frSRpPVKZjnJ7)
+- Léa Drieu, CNRS-CEPAM <a href="mailto:lea.drieu@cepam.cnrs.fr">contact</a>
+- Jasmine Lundy, University of York <a href="mailto:jasmine.lundy@york.ac.uk">contact</a>
+You can also contact them through this form: [**Form**](https://forms.gle/a699frSRpPVKZjnJ7)
 
 
