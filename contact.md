@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Steering Committee
+title: Contact
 sidebar_link: true
 ---
 
