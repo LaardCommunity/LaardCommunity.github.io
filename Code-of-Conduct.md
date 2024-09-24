@@ -8,7 +8,7 @@ sidebar_link: true
 
 All attendees and members of LAARD are expected to be respectful towards all members regardless of background, and actively participate in creating a welcoming and friendly community.
 Unacceptable or illegal behaviour will not be tolerated and the organisers reserve the right to remove anyone violating the Code of Conduct from both in-person or online channels.
-If at any point you feel unsafe or the code of conduct is violated, please contact the designated safety officers: (yet to be determined as of October 2023) who will deal with any issues respectfully and anonymously, as required.
+If at any point you feel unsafe or the code of conduct is violated, please contact the designated safety officers: Léa Drieu and Jasmine Lundy who will deal with any issues respectfully and anonymously, as required.
 
 >This is only for guidance, and the main body of this page is the enforceable document.
 
