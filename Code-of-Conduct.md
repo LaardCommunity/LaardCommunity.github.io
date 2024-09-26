@@ -75,7 +75,7 @@ The LAARD safety officers are:
 - Léa Drieu, CNRS-CEPAM <a href="mailto:lea.drieu@cepam.cnrs.fr">contact</a>
 - Jasmine Lundy, University of York <a href="mailto:jasmine.lundy@york.ac.uk">contact</a>
 
-Apart from contacting the safety officers directly you can use our annonymous <a href="(https://forms.gle/a699frSRpPVKZjnJ7)">form</a>.
+Apart from contacting the safety officers directly you can use our annonymous <a href="https://forms.gle/a699frSRpPVKZjnJ7">form</a>.
 
 ### 8. License and attribution
 
