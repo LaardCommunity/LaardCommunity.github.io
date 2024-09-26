@@ -17,7 +17,7 @@ Regarding date, we would like to offer you to participate in the following poll 
 - December 12th 2024
 - January 9th 2025
 
-Please vote here. Deadline is the 4th of October 2024. Thank you!
+Please vote <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmKPATike4rktpzSrLvU1opwvTieVxyjKQxdUY_TXbSn0BZA/viewform?usp=sf_link">here</a>. Deadline is the 4th of October 2024. Thank you!
 
 
 
