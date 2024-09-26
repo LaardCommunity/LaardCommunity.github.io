@@ -12,8 +12,7 @@ Group mail: <a href="mailto:laard.community@gmail.com">laard.community@gmail.com
 
 Follow us on <a href="https://x.com/LAARD_community">twitter/X</a>
 
-To join the mailing list: [**Form**](https://forms.gle/87phUpX15EHiESUb6)
-
+To join the mailing list: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrmI_n_aEAr3qw6m5bFx1NyG1izryU3uJroSrS5PDpH_teNA/viewform?embedded=true" width="640" height="1376" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 <!--**Steering committee**
 
 Mélanie Roffet-Salque <a href="mailto:Melanie.Salque@bristol.ac.uk">Melanie.Salque@bristol.ac.uk</a>
