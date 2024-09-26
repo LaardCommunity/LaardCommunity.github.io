@@ -11,13 +11,13 @@ Our first meeting will take place online (duration c.3 hours). To accommodate va
 Meeting Time: 11:00-14:00 in UK time (6:00-9:00 North America East Coast, 19:00-22:00 Japan/Korea) with a short break.
 
 
-Regarding date, we would like to offer you to participate in the following poll in order to find a date that suits most people. Options are:
+Regarding date, we would like to offer LAARD members to participate in a poll in order to find a date that suits most people. Options are:
 
 - December 5th 2024
 - December 12th 2024
 - January 9th 2025
 
-Please vote <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmKPATike4rktpzSrLvU1opwvTieVxyjKQxdUY_TXbSn0BZA/viewform?usp=sf_link">here</a>. Deadline is the 4th of October 2024. Thank you!
+Members can vote through the link provided in their emails. Deadline is the 4th of October 2024. Thank you!
 
 
 
