@@ -75,8 +75,7 @@ The LAARD safety officers are:
 - Léa Drieu, CNRS-CEPAM <a href="mailto:lea.drieu@cepam.cnrs.fr">contact</a>
 - Jasmine Lundy, University of York <a href="mailto:jasmine.lundy@york.ac.uk">contact</a>
 
-Apart from contacting the safety officers directly you can use our annonymous <a href="https://forms.gle/a699frSRpPVKZjnJ7">form</a>.
-
+Apart from contacting the safety officers directly you can use our annonymous [**Form**](https://forms.gle/a699frSRpPVKZjnJ7)
 ### 8. License and attribution
 
 This Code of Conduct was modelled after the Code of Conduct of the [SPAAM](https://www.spaam-community.org/) community, which in turn is based on the Code of Conduct distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) and [Conf Code of Conduct](https://confcodeofconduct.com/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
