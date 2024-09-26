@@ -33,9 +33,13 @@ The Steering Committee is formed by teams consisting of the managing team: a cha
 <h2>Description of the Roles</h2>
 <h3>Management team</h3>
 Formed by the Chair, the Vice-Chair/Treasurer and the Secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
+
 Chair: The one to lead meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the LAARD community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by  working closely with the communication and engagement teams. The Chair allows for discussion around long-term topics, and needs to be forward thinking on this end.
+
 Vice-Chair/Treasurer: Supports the Chair and fills in when the Chair is unavailable. Distribution of work can be discussed between the Chair and Vice-Chair. The role of Treasurer is taken by the Vice-Chair. The treasurer is responsible for managing the funds available. They will also manage communications related to funds and will hold responsibility for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer is also responsible for leading on grant applications to continue to fund LAARD initiatives.
+
 Secretary: Responsible for taking minutes during Committee and general meetings, sending them out to the community via Element when they are ready, and making sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing the same for the agenda ahead of time).
+
 *note that the Chair, and Vice-Chair and Secretary need to come from different institutions.
 <h3>Communication team</h3>
 Responsible for the outreach of the community, by tweeting (with the Twitter/X account (@laard_community), emailing as well as updating the website. Social media officers will announce new initiatives, conferences, new publications papers and job opportunitiess that are relevant for the LAARD community.
