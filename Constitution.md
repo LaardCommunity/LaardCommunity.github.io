@@ -46,7 +46,7 @@ Formed by the Chair, the Vice-Chair/Treasurer and the Secretary. Responsible for
 
 *note that the Chair, and Vice-Chair and Secretary need to come from different institutions.
 <h3>Communication team</h3>
-Responsible for the outreach of the community, by tweeting (with the Twitter/X account (@laard_community), emailing as well as updating the website. Social media officers will announce new initiatives, conferences, new publications papers and job opportunitiess that are relevant for the LAARD community.
+Responsible for the outreach of the community, by tweeting (with the Twitter/X account <a href="https://x.com/LAARD_community">(@laard_community)</a>, emailing as well as updating the website. Social media officers will announce new initiatives, conferences, new publications papers and job opportunitiess that are relevant for the LAARD community.
 <h3>Events and Engagement team</h3>
 Responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and proposing them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known both inside and outside the community by working together with the communications team. Suggesting potential funding sources for the initiative, by engaging with the treasurer, will also be part of their role. Organising the event with support from the LAARD board. 
 <h2>Time in Office</h2>
