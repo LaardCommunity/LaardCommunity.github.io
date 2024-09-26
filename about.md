@@ -19,7 +19,7 @@ We have various [events and a yearly workshop](/categories/events) with cycling 
 
 Please join us on our:
 
-- [**mailing list**](https://forms.gle/N3255E9QVPZkDdB57) for announcements, calls, and notices.
+- [**mailing list**](https://forms.gle/87phUpX15EHiESUb6) for announcements, calls, and notices.
 
 <!-- Add more of these later as they become applicable, also paraphrase above text on slack and twitter. Now direct copy from SPAAM.
 
