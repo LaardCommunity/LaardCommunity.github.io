@@ -23,17 +23,19 @@ We welcome all early stage career researchers, as well as Principal Investigator
 
 All members of our community are obliged to follow our <a href="https://laardcommunity.github.io/Code-of-Conduct/">Code of Conduct</a>. Before joining the community, be sure to read and understand what this entails. This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour. All members of LAARD are required to agree and comply with this Code of Conduct. Safety officers are responsible for enforcing this code within the community, including dealing with any violations. We expect cooperation from all participants to help ensure a safe and positive environment for everybody.
 
-To report any violations of this code of conduct within activities in the scope of the community, please reach out to our safety officers whose contacts can be found within the Code of Conduct. An anonymous reporting form is also available in this [**Form**](https://forms.gle/a699frSRpPVKZjnJ7). The actions taken by the safety officers will depend on the gravity and nature of the concern raised. Safety officers are entitled to remove a member from the community.
+To report any violations of this code of conduct within activities in the scope of the community, please reach out to our safety officers whose contacts can be found within the Code of Conduct. An anonymous reporting [**Form**](https://forms.gle/a699frSRpPVKZjnJ7) is also available. The actions taken by the safety officers will depend on the gravity and nature of the concern raised. Safety officers are entitled to remove a member from the community.
 
 <h2>Finances</h2>
 There is no membership fee to join the LAARD community. However, opportunities for voluntary donations will be presented in community-wide LAARD meetings. We are financially supported by voluntary donations from members and research group leaders. If you are able to contribute financially and would like to support the LAARD community, please contact our Treasurer.
 <h2>Constitution</h2>
 The constitution (this document) outlines the structure and information about the LAARD community. The constitution is a living document which will be updated as needed to fit the needs of the LAARD community. It is primarily maintained by the Steering Committee, but other members can make suggestions by reaching out to the Steering Committee and advocate for changes as they see fit.
+
 <h1>LAARD Steering Committee</h1>
 <h2>Definition - Steering Committee</h2>
 The Steering Committee is an executive board that manages the daily operations of the community and provides support, guidance and oversight of particular issues or projects within the context of the LAARD community.
 The tasks of the Steering Committee involve brainstorming, proposing new initiatives and helping these get off the ground, by increasing engagement and support for LAARD members and events, helping with ongoing organisation efforts and publicization of LAARD, and sourcing funds for the maintenance of LAARD.
 The Steering Committee is formed by teams consisting of the managing team: a chair, a co-chair/treasurer and a secretary, a social media team and an engagement team. The teams meet on a regular basis to divide responsibilities and set up a communication method that ensures tasks are fulfilled.
+
 <h2>Description of the Roles</h2>
 <h3>Management team</h3>
 Formed by the Chair, the Vice-Chair/Treasurer and the Secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
@@ -44,17 +46,18 @@ Formed by the Chair, the Vice-Chair/Treasurer and the Secretary. Responsible for
 
 <u>Secretary</u>: Responsible for taking minutes during Committee and general meetings, sending them out to the community via Element when they are ready, and making sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing the same for the agenda ahead of time).
 
-*note that the Chair, and Vice-Chair and Secretary need to come from different institutions.
+*note that the Chair, Vice-Chair/Treasurer and Secretary need to come from different institutions.
+
 <h3>Communication team</h3>
-Responsible for the outreach of the community, by tweeting (with the Twitter/X account <a href="https://x.com/LAARD_community">(@laard_community)</a>, emailing as well as updating the website. Social media officers will announce new initiatives, conferences, new publications papers and job opportunitiess that are relevant for the LAARD community.
+Responsible for the outreach of the community, by tweeting (with the Twitter/X account <a href="https://x.com/LAARD_community">(@laard_community)</a>, emailing as well as updating the website. Social media officers will announce new initiatives, conferences, new publications and job opportunitiess that are relevant for the LAARD community.
 <h3>Events and Engagement team</h3>
 Responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and proposing them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known both inside and outside the community by working together with the communications team. Suggesting potential funding sources for the initiative, by engaging with the treasurer, will also be part of their role. Organising the event with support from the LAARD board. 
 <h2>Time in Office</h2>
-Any member of the Steering Committee is elected for 2 years. After the first two years since the foundation of LAARD, half of the Steering Committee will be replaced by a new election every year. At that time, those who remain on the Steering Committee will be able to change roles. This implies that, exceptionally, three members of the first Steering Committee will be active for 3 years.
+Any member of the Steering Committee is elected for 2 years. After the first two years since the foundation of LAARD, half of the Steering Committee will be replaced by a new election yearly. At that time, those who remain on the Steering Committee will be able to change roles. This implies that, exceptionally, three members of the first Steering Committee will be active for 3 years.
 <h2>How are Steering Committee members chosen?</h2>
 Community members will be encouraged to volunteer when the term for the current Steering Committee is reaching an end. If a team lacks volunteers, the current officers will nominate a person to substitute them. The committee should include at least one PhD student and one post-doctoral/early-career researcher. The roles will be attributed between members of the Steering Committee at the first Steering Committee meeting. 
 <h2>Amending the Constitution</h2>
-Any member can propose amendments they wish to see to the Constitution by contacting either the Chair or Vice-Chair. Proposed changes will be reviewed by the Steering Committee and voted on by the community during a general meeting.
+Any member can propose amendments they wish to see to the Constitution by contacting either the Chair or Vice-Chair/Treasurer. Proposed changes will be reviewed by the Steering Committee and voted on by the community during a general meeting.
 
 Thursday 26th Spetmebr 2024
 
