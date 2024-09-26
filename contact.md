@@ -12,7 +12,7 @@ Group mail: <a href="mailto:laard.community@gmail.com">laard.community@gmail.com
 
 Follow us on <a href="https://x.com/LAARD_community">twitter/X</a>
 
-To join the mailing list: [**Form**](https://forms.gle/N3255E9QVPZkDdB57)
+To join the mailing list: [**Form**](https://forms.gle/87phUpX15EHiESUb6)
 
 <!--**Steering committee**
 
