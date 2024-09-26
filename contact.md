@@ -10,6 +10,8 @@ sidebar_link: true
 
 Group mail: <a href="mailto:laard.community@gmail.com">laard.community@gmail.com</a>
 
+Follow us on <a href="https://x.com/LAARD_community">twitter/X</a>
+
 To join the mailing list: [**Form**](https://forms.gle/N3255E9QVPZkDdB57)
 
 <!--**Steering committee**
