@@ -19,8 +19,11 @@ The idea of LAARD originated in 2023 during the International Society for Biomol
 Our main community space is Element. We also gather in-person for biannual conferences and online for various events. We keep information about the community archived on our website, along with information on how to get involved.
 <h2>Membership</h2>
 We welcome all early stage career researchers, as well as Principal Investigators (PIs) and other senior researchers, to join our community by contacting the Committee through our form. However, the community is intended to be especially beneficial to early career researchers; thus, we encourage PIs not to monopolise discussions.
+
 All members of our community are obliged to follow our Code of Conduct. Before joining the community, be sure to read and understand what this entails. This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour. All members of LAARD are required to agree and comply with this Code of Conduct. Safety officers are responsible for enforcing this code within the community, including dealing with any violations. We expect cooperation from all participants to help ensure a safe and positive environment for everybody.
+
 To report any violations of this code of conduct within activities in the scope of the community, please reach out to our safety officers whose contacts can be found within the Code of Conduct. An anonymous reporting form is also available here. The actions taken by the safety officers will depend on the gravity and nature of the concern raised. Safety officers are entitled to remove a member from the community.
+
 <h2>Finances</h2>
 There is no membership fee to join the LAARD community. However, opportunities for voluntary donations will be presented in community-wide LAARD meetings. We are financially supported by voluntary donations from members and research group leaders. If you are able to contribute financially and would like to support the LAARD community, please contact our Treasurer.
 <h2>Constitution</h2>
