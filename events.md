@@ -12,9 +12,10 @@ Meeting Time: 11:00-14:00 in UK time (6:00-9:00 North America East Coast, 19:00-
 
 
 Regarding date, we would like to offer you to participate in the following poll in order to find a date that suits most people. Options are:
-December 5th 2024
-December 12th 2024
-January 9th 2025
+
+- December 5th 2024
+- December 12th 2024
+- January 9th 2025
 
 Please vote here. Deadline is the 4th of October 2024. Thank you!
 
