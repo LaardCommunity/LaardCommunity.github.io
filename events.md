@@ -31,7 +31,7 @@ The programme will be as followed:
       <td>2nd Session</td>
       <td>
         <ul>
-          <li>Lab introductions (3 labs, 6-7 min each) </br><b>Call for submissions - now open.</b></li>
+          <li>Lab introductions (3 labs, 6-7 min each) <b>Call for submissions - now open.</b></li>
         </ul>
       </td>
     </tr>
@@ -43,7 +43,7 @@ The programme will be as followed:
       <td>3rd Session</td>
       <td>
         <ul>
-          <li>Thematic session on experimental research of lipid residues. </br>3 presentations with 15-20 mins talks and questions. </br><b>Call for submissions - now open.</b></li>
+          <li>Thematic session on experimental research of lipid residues. 3 presentations with 15-20 mins talks and questions. <b>Call for submissions - now open.</b></li>
           <li>Round Table Discussion</li>
           <li>Closing Remarks</li>
         </ul>
