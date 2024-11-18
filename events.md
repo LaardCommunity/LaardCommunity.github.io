@@ -31,19 +31,19 @@ The programme will be as followed:
       <td>2nd Session</td>
       <td>
         <ul>
-          <li>Lab introductions (3 labs, 6-7 min each) <b>Call for submissions - now open.</b></li>
+          <li>Lab introductions (3 labs, 6-7 min each) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAZi8ZVJkfqVvjc5ZHXjOr56C9r2aouuPayy3H0_Soc0bR6A/viewform?usp=sf_link">Call for submissions - now open.</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Short Break</td>
       <td></td>
+      <td>Short Break</td>
     </tr>
     <tr>
       <td>3rd Session</td>
       <td>
         <ul>
-          <li>Thematic session on experimental research of lipid residues. 3 presentations with 15-20 mins talks and questions. <b>Call for submissions - now open.</b></li>
+          <li>Thematic session on experimental research of lipid residues. 3 presentations with 15-20 mins talks and questions. <a href="https://docs.google.com/forms/d/e/1FAIpQLSesaT1pq8coxJwlTzr8CKJoD-6L-U61RMyA3MS_KWx1W3PzvA/viewform?usp=sf_link">Call for submissions - now open.</a></li>
           <li>Round Table Discussion</li>
           <li>Closing Remarks</li>
         </ul>
