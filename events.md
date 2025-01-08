@@ -44,9 +44,9 @@ The programme will be as follows:
     <tr>
       <td>3rd Session</td>
       <td>
-        <ul>
-          <li>Thematic session on experimental research of lipid residues. 3 presentations with 15-20 mins talks and questions. </li>
-          <li>Round Table Discussion</li>
+        <ul>Thematic session on experimental research of lipid residues
+          <li>Talk from M. Zhang (University of Bristol): 'Experimental approaches to the detection of Panicum miliaceum (broomcorn millet) processing in pottery using the miliacin biomarker'</li>
+          <li>Round Table Discussion: Challenges, unexpected and positive outcomes, what is actually an experiment, laboratory vs. field experiments, how to design an experiment?</li>
           <li>Closing Remarks</li>
         </ul>
       </td>
@@ -54,18 +54,7 @@ The programme will be as follows:
   </tbody>
 </table>
 
-
-
-<b>Registration is now open until the 22nd of December 2024.</b> Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMNEgQjVBKsf4SswrIAXlqXUOB1rlUw7CESX2tNKA5FYgOBw/viewform?usp=sf_link">here.</a>
- 
-Furthermore, call for submissions are open for:
-
-If you would like to <b>present your ORA lab facilities</b> you are based at (as the lab manager or in agreement with the lab manager), please submit your contribution <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAZi8ZVJkfqVvjc5ZHXjOr56C9r2aouuPayy3H0_Soc0bR6A/viewform?usp=sf_link">here.</a>
-
-If you would like to present on experimental lipid research data, please submit your contribution <a href="https://docs.google.com/forms/d/e/1FAIpQLSesaT1pq8coxJwlTzr8CKJoD-6L-U61RMyA3MS_KWx1W3PzvA/viewform?usp=sf_link">here.</a>
-
-<b>Call for submissions are closing on the 6th of December 2024</b> and selected contributors are notified the latest by the 13th of December 2024. The selection process is mainly based on 
-first-come-first-serve principle as well as institutional representation.
+To ensure a lively discussion, could you please prepare some remarks or questions based on your experiments?
 
 If you have any further questions, please contact the <a href="https://laardcommunity.github.io/Steering-Committee/#engagement">engagement team</a> (Shinya and Julia).
 
