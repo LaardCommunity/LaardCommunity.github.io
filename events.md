@@ -9,7 +9,7 @@ LAARD is currently planning to hold online and in-person meetings in the near fu
 <h2>1st online meeting</h2>
 The meeting will take place on zoom platform on the <b>9th of January 2025</b>, Meeting Time: <b>11:00-14:00 in UK time (6:00-9:00 North America East Coast, 19:00-22:00 Japan/Korea)</b> with a short break.
 
-The programme will be as followed:
+The programme will be as follows:
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
@@ -30,8 +30,10 @@ The programme will be as followed:
     <tr>
       <td>2nd Session</td>
       <td>
-        <ul>
-          <li>Lab introductions (3 labs, 6-7 min each) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAZi8ZVJkfqVvjc5ZHXjOr56C9r2aouuPayy3H0_Soc0bR6A/viewform?usp=sf_link">Call for submissions - now open.</a></li>
+        <ul> Lab introductions
+          <li>E. Oras (University of Tartu)</li>
+          <li>J. Lundy and A. Lucquin (University of York)</li>
+          <li>G. Janzen (University of Mainz)</li>
         </ul>
       </td>
     </tr>
@@ -43,7 +45,7 @@ The programme will be as followed:
       <td>3rd Session</td>
       <td>
         <ul>
-          <li>Thematic session on experimental research of lipid residues. 3 presentations with 15-20 mins talks and questions. <a href="https://docs.google.com/forms/d/e/1FAIpQLSesaT1pq8coxJwlTzr8CKJoD-6L-U61RMyA3MS_KWx1W3PzvA/viewform?usp=sf_link">Call for submissions - now open.</a></li>
+          <li>Thematic session on experimental research of lipid residues. 3 presentations with 15-20 mins talks and questions. </li>
           <li>Round Table Discussion</li>
           <li>Closing Remarks</li>
         </ul>
