@@ -6,10 +6,15 @@ sidebar_link: true
 
 LAARD is currently planning to hold online and in-person meetings in the near future. Be sure to join our mailing list and follow us on social media to stay up to date!
 
-<h2>1st online meeting</h2>
-The meeting will take place on zoom platform on the <b>9th of January 2025</b>, Meeting Time: <b>11:00-14:00 in UK time (6:00-9:00 North America East Coast, 19:00-22:00 Japan/Korea)</b> with a short break.
 
-The programme will be as follows:
+<h2>1st in person meeting</h2>
+Our first in-person meeting will be held in Turin in 2025, prior to the ISBA meeting. Further information is following soon. 
+
+
+<h2>1st online meeting</h2>
+The meeting took place on zoom platform on the <b>9th of January 2025</b>, Meeting Time: <b>11:00-14:00 in UK time (6:00-9:00 North America East Coast, 19:00-22:00 Japan/Korea)</b> with a short break.
+
+The programme was as follows:
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
@@ -58,7 +63,4 @@ To ensure a lively discussion, could you please prepare some remarks or question
 
 If you have any further questions, please contact the <a href="https://laardcommunity.github.io/Steering-Committee/#engagement">engagement team</a> (Shinya and Julia).
 
-
-<h2>1st in person meeting</h2>
-Our first in-person meeting will be held in Turin in 2025, prior to the ISBA meeting. Further information is following soon. 
 
