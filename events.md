@@ -8,7 +8,7 @@ LAARD is currently planning to hold online and in-person meetings in the near fu
 
 
 <h2>1st in person meeting</h2>
-The LAARD community will hold its first in-person meeting in Turin on Tuesday the 26th of August 2025, just before the start of the ISBA11 conference. A large number of abstracts were submitted for ISBA11, but only a few of the talks could bee accepted, leading to a lot of ORA work to be be presented as posters. With the LAARD meeting we want to promote the visibility of as much work on lipids as possible. We therefore propose for the day of 26 August:To promote the visibility of as much work on lipids as possible, this day will be divided between the following activities:
+The LAARD community will hold its first in-person meeting in Turin on Tuesday the 26th of August 2025, just before the start of the ISBA11 conference. A large number of abstracts were submitted for ISBA11, but only a few of the talks could bee accepted, leading to a lot of ORA work to be be presented as posters. With the LAARD meeting we want to promote the visibility of as much work on lipids as possible. We therefore propose for the day of 26 August: To promote the visibility of as much work on lipids as possible, this day will be divided between the following activities:
 <p></p>
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <tbody>
