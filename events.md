@@ -9,12 +9,18 @@ LAARD is currently planning to hold online and in-person meetings in the near fu
 
 <h2>1st in person meeting</h2>
 The LAARD community will hold its first in-person meeting in Turin on Tuesday the 26th of August 2025, just before the start of the ISBA11 conference. To promote the visibility of as much work on lipids as possible, this day will be divided between the following activities:
-
-<table border="1" style="border-collapse: collapse; width: 100%;"><thead></thead>
-<tbody>
-<tr> talks from early career researchers whose abstracts have been downgraded to posters for ISBA 11 </tr>
-<tr>mini-poster session dedicated to lipids and/or a flash-talk session, to present the posters directly to the community and facilitate discussion around them </tr>
-<tr> roundtables on the following topic: "Guidelines for publishing lipid data from an ORA and archaeological perspective".</tr>
+<p></p>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td>Talks from early career researchers whose abstracts have been downgraded to posters for ISBA 11.</td>
+    </tr>
+    <tr>
+      <td>Mini-poster session dedicated to lipids and/or a flash-talk session, to present the posters directly to the community and facilitate discussion around them.</td>
+    </tr>
+    <tr>
+      <td>A roundtables on the following topic: "Guidelines for publishing lipid data from an ORA and archaeological perspective".</td>
+    </tr>
   </tbody>
 </table>
 
