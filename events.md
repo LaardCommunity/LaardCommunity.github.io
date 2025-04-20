@@ -24,7 +24,36 @@ The LAARD community will hold its first in-person meeting in Turin on Tuesday th
   </tbody>
 </table>
 
-To enable us to share coffee breaks and a lunches, we kindly invite participants to contribute to the catering costs. To make your contribution to the LAARD meeting (10€ for students and early career researchers, 15€ for others), please use the dedicated Paypal button (coming soon in this page or in the ISBA website). Your support is essential to help make the first in-person LAARD meeting as friendly and welcoming as possible!.
+To enable us to share coffee breaks and a lunches, we kindly invite participants to contribute to the catering costs. To make your contribution to the LAARD meeting (10€ for students and early career researchers, 15€ for others), please use the dedicated Paypal button (coming soon in this page or in the ISBA website). Your support is essential to help make the first in-person LAARD meeting as friendly and welcoming as possible!
+
+<!--
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="RDF8XWU8HMSXL" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="Fee options"/>
+        Fee options
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="Option one: Student">
+            Option one: Student €10.00 EUR
+          </option>
+          <option value="Option two: Standard">
+            Option two: Standard €15.00 EUR
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="EUR" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+</form>
+-->
 
 Stay tuned for more details about the programme!
 
