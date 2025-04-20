@@ -13,16 +13,16 @@ The LAARD community will hold its first in-person meeting in Turin on Tuesday th
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <tbody>
     <tr>
-      <td>Talks</td>
+      <td><strong>Talks</strong></td>
       <td>Early career researchers whose abstracts have been downgraded to posters for ISBA 11.</td>
     </tr>
     <tr>
-      <td>Flash-talk or poster session</td>
+      <td><strong>Flash-talk or poster session</strong></td>
       <td>Dedicated to lipids and to present the posters directly to the community and facilitate discussion around them.</td>
     </tr>
     <tr>
-      <td>Roundtable</td>
-      <td> <strong>Guidelines for publishing lipid data from an ORA and archaeological perspective.</strong> For example:  What archaeological information should be provided for each sample? What chemical data should be included in the publication?</td>
+      <td><strong>Roundtable</strong></td>
+      <td>Guidelines for publishing lipid data from an ORA and archaeological perspective:  What archaeological information should be provided for each sample? What chemical data should be included in the publication?</td>
     </tr>
   </tbody>
 </table>
