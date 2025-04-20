@@ -8,7 +8,7 @@ LAARD is currently planning to hold online and in-person meetings in the near fu
 
 
 <h2>1st in person meeting</h2>
-The LAARD community will hold its first in-person meeting in Turin on Tuesday the 26th of August 2025, just before the start of the ISBA11 conference. To promote the visibility of as much work on lipids as possible, this day will be divided between the following activities:
+The LAARD community will hold its first in-person meeting in Turin on Tuesday the 26th of August 2025, just before the start of the ISBA11 conference. A large number of abstracts were submitted for ISBA11, but only a few of the talks could bee accepted, leading to a lot of ORA work to be be presented as posters. With the LAARD meeting we want to promote the visibility of as much work on lipids as possible. We therefore propose for the day of 26 August:To promote the visibility of as much work on lipids as possible, this day will be divided between the following activities:
 <p></p>
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <tbody>
@@ -19,12 +19,12 @@ The LAARD community will hold its first in-person meeting in Turin on Tuesday th
       <td>Mini-poster session dedicated to lipids and/or a flash-talk session, to present the posters directly to the community and facilitate discussion around them.</td>
     </tr>
     <tr>
-      <td>A roundtables on the following topic: "Guidelines for publishing lipid data from an ORA and archaeological perspective".</td>
+      <td>A roundtables on the following topic: "Guidelines for publishing lipid data from an ORA and archaeological perspective". Example What archaeological information should be provided for each sample? What chemical data should be included in the publication?</td>
     </tr>
   </tbody>
 </table>
 
-We kindly invite participants to contribute to the catering costs. To make your contribution to the LAARD meeting (10€ for students and early career researchers, 15€ for others), please use the dedicated Paypal button (coming soon). Your support is essential to help make the first in-person LAARD meeting as friendly and welcoming as possible!.
+To enable us to share coffee breaks and a lunches, we kindly invite participants to contribute to the catering costs. To make your contribution to the LAARD meeting (10€ for students and early career researchers, 15€ for others), please use the dedicated Paypal button (coming soon in this page or in the ISBA website). Your support is essential to help make the first in-person LAARD meeting as friendly and welcoming as possible!.
 
 Stay tuned for more details about the programme!
 
