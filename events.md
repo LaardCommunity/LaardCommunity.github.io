@@ -72,8 +72,6 @@ To enable us to share coffee breaks and a lunches, we kindly invite participants
   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
 </form>
 
-Stay tuned for more details about the programme!
-
 <br/>
 <br/>
 <br/>
