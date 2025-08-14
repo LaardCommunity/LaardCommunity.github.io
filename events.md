@@ -13,38 +13,15 @@ LAARD is currently planning to hold online and in-person meetings in the near fu
 <p>The morning presentations can be followed remotely via this Webex link (no registration needed).</p>
 <p>If you have not yet registered to attend LAARD1, please do so and remember to pay the luch fees using the buttons below:</p>
 <p></p>
-  <html>
-<button
+<html><button
   class="button-join"
   role="button"
-  onclick="window.open('/assets/media/LAARD1_Full_Programme.pdf','_blank')"
+  onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLScWNJ3gWxmW4QuWTxrOVzPeh3l4BhiKcZmAEnQheb4MDFBF9g/viewform?usp=dialog')"
   type="button"
 >
-  Program in pdf
-</button>
-  </html>
+  Register
+</button></html>
 <p></p>
-The day will follow this program:
-
-<table border="1" style="border-collapse: collapse; width: 100%;">
-  <tbody>
-    <tr>
-      <td><strong>Talks</strong></td>
-      <td>Early career researchers whose abstracts have been downgraded to posters for ISBA 11.</td>
-    </tr>
-    <tr>
-      <td><strong>Flash-talk or poster session</strong></td>
-      <td>Dedicated to lipids and to present the posters directly to the community and facilitate discussion around them.</td>
-    </tr>
-    <tr>
-      <td><strong>Roundtable</strong></td>
-      <td>Guidelines for publishing lipid data from an ORA and archaeological perspective:  What archaeological information should be provided for each sample? What chemical data should be included in the publication?</td>
-    </tr>
-  </tbody>
-</table>
-
-To enable us to share coffee breaks and a lunches, we kindly invite participants to contribute to the catering costs. To make your contribution to the LAARD meeting (10€ for students and early career researchers, 15€ for others), please use the dedicated Paypal button (coming soon in this page or in the ISBA website). Your support is essential to help make the first in-person LAARD meeting as friendly and welcoming as possible!
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick" />
   <input type="hidden" name="hosted_button_id" value="RDF8XWU8HMSXL" />
@@ -71,6 +48,100 @@ To enable us to share coffee breaks and a lunches, we kindly invite participants
   <input type="hidden" name="currency_code" value="EUR" />
   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
 </form>
+<p></p>
+The day will follow this program:
+<html><button
+  class="button-join"
+  role="button"
+  onclick="window.open('/assets/media/LAARD1_Full_Programme.pdf','_blank')"
+  type="button"
+>
+  Program in pdf
+</button></html>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td><strong>8.45-9.00</strong></td>
+      <td><strong>Arrival</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9.00-9.15</strong></td>
+      <td><strong>Welcoming</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9.15-10.45</strong></td>
+      <td><strong>Morning session - Part 1</strong></td>
+    </tr>
+    <tr>
+      <td><strong></strong></td>
+      <td>
+<li>Influence of the Ceramic Matrix on Lipid Retention and Extraction from Archaeological Potteries. <i>Yaël Antonaros </i> </li>
+<li>Characterization of the fish products lipidic signatures in ethnographic pots for a better interpretation of archaeological remains. <i>Louise Martignac</i> </li>
+<li>Lipids, Lapita, and Lore. <i>Mathieu Leclerc</i> </li>
+<li>Evolving Lipid Evidence: Decoding Contributions of Aquatic Fat in Early Pottery of the Southeastern United States. <i>Anne-Julie Bilodeau</i> </li>
+<li>Flash Talk - Contents of early vessels in the eastern Gulf: organic residue analysis of sixth-fifth millennia BC imported Mesopotamian vessels in south-eastern Arabia. <i>Akshyeta Suryanarayan</i> </li>
+        </td>
+      </tr>
+      <tr>
+      <td><strong>10.45-11.15</strong></td>
+      <td><strong>Break</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9.15-10.45</strong></td>
+      <td><strong>Morning session - Part 2</strong></td>
+    </tr>
+   <tr>
+      <td><strong></strong></td>
+      <td>
+      <li>  Lifting the Lid on the Hebridean Neolithic: Using Organic Residue Analysis to Reconstruct Foodways in the Hebridean Social Landscape. <i>Daniel Brown</i> </li>
+       <li> Coastal or Continental Culture? The French Atlantic Coast during the End of the Neolithic Period. <i>Camisela Prévost</i> </li>
+       <li> Dietary practices of a rural society in Western Germany under Rome: Lipid analysis of pottery covering major historical transitions (1st to 4th century CE). <i>George Janzen</i> </li>
+      <li>  From Organic to Ceramic Remains: The Biomolecular Signature of an Ancient Ferment. <i>Tizona Ben-Gedalya </i></li>
+      <li>  Flahs Talk - 5 A Day: the role of plant substances in the ancient diet of Corsica during Prehistory. <i>Maïlys Turini</i> </li>
+      <li>  Flash Talk - Evidence for intensified dairying at the Corded-Ware cultural horizon in Central and Northern Europe using lipid residue analysis and zooarchaeology. <i>Lizzie Wright</i> </li>
+      </td>
+     </tr>
+     <tr>
+      <td><strong>12.45-14.15</strong></td>
+      <td><strong>Lunch break</strong></td>
+    </tr>
+    <tr>
+      <td><strong>14.15-14.45</strong></td>
+      <td><strong>Introduction to Round Tables</strong></td>
+    </tr>
+     <tr>
+      <td><strong></strong></td>
+      <td>
+<li> The AROLDatabase: ARchaeological Organic residues Literature Database. <i>Camisela Prévost </i></li>
+<li> Animal Fat Database: Journey of mass data collection and quality control. <i>Mélanie Roffet-Salque </i></li>       
+      </td>
+    </tr>
+      <tr>
+      <td><strong>14.15-14.45</strong></td>
+      <td><strong>Roundtables</strong></td>
+    </tr>
+     <tr>
+      <td><strong></strong></td>
+      <td>
+        <li> Guidelines for publishing lipid data from an archaeological perspective</li> 
+     <li> Guidelines for publishing lipid data from a chemical perspective</li> 
+      </td>
+    </tr>
+      <tr>
+      <td><strong>15.45-16.30</strong></td>
+      <td><strong>Discussions</strong></td>
+    </tr>
+          <tr>
+      <td><strong>16.30-17.00</strong></td>
+      <td><strong>Walk to ISBA registration</strong></td>
+    </tr>
+          <tr>
+      <td><strong>from 18.00</strong></td>
+      <td><strong>ISBA Welcome Cocktail</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <br/>
 <br/>
