@@ -76,7 +76,7 @@ The day will follow this program:
       <td><strong></strong></td>
       <td>
 <li>Influence of the Ceramic Matrix on Lipid Retention and Extraction from Archaeological Potteries. <i>Yaël Antonaros </i> </li>
-<li>Characterization of the fish products lipidic signatures in ethnographic pots for a better interpretation of archaeological remains. <i>Louise Martignac</i> </li>
+<li>Flash Talk - Characterization of the fish products lipidic signatures in ethnographic pots for a better interpretation of archaeological remains. <i>Louise Martignac</i> </li>
 <li>Lipids, Lapita, and Lore. <i>Mathieu Leclerc</i> </li>
 <li>Evolving Lipid Evidence: Decoding Contributions of Aquatic Fat in Early Pottery of the Southeastern United States. <i>Anne-Julie Bilodeau</i> </li>
 <li>Flash Talk - Contents of early vessels in the eastern Gulf: organic residue analysis of sixth-fifth millennia BC imported Mesopotamian vessels in south-eastern Arabia. <i>Akshyeta Suryanarayan</i> </li>
