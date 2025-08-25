@@ -76,10 +76,10 @@ The day will follow this program:
       <td><strong></strong></td>
       <td>
 <li>  <a href="https://laardcommunity.github.io/abstracts/laard1abstract1/">Influence of the Ceramic Matrix on Lipid Retention and Extraction from Archaeological Potteries. </a><i>Yaël Antonaros </i> </li>
-<li>Lipids, Lapita, and Lore. <i>Mathieu Leclerc</i> </li>
-<li>Evolving Lipid Evidence: Decoding Contributions of Aquatic Fat in Early Pottery of the Southeastern United States. <i>Anne-Julie Bilodeau</i> </li>
-<li>Flash Talk - Characterization of the fish products lipidic signatures in ethnographic pots for a better interpretation of archaeological remains. <i>Louise Martignac</i> </li>
-<li>Flash Talk - Contents of early vessels in the eastern Gulf: organic residue analysis of sixth-fifth millennia BC imported Mesopotamian vessels in south-eastern Arabia. <i>Akshyeta Suryanarayan</i> </li>
+<li><a href="https://laardcommunity.github.io/abstracts/laard1abstract2/">Lipids, Lapita, and Lore. </a><i>Mathieu Leclerc</i> </li>
+<li><a href="https://laardcommunity.github.io/abstracts/laard1abstract3/">Evolving Lipid Evidence: Decoding Contributions of Aquatic Fat in Early Pottery of the Southeastern United States. </a><i>Anne-Julie Bilodeau</i> </li>
+<li><a href="https://laardcommunity.github.io/abstracts/laard1abstract4/">Flash Talk - Characterization of the fish products lipidic signatures in ethnographic pots for a better interpretation of archaeological remains. </a><i>Louise Martignac</i> </li>
+<li><a href="https://laardcommunity.github.io/abstracts/laard1abstract5/">Flash Talk - Contents of early vessels in the eastern Gulf: organic residue analysis of sixth-fifth millennia BC imported Mesopotamian vessels in south-eastern Arabia. </a><i>Akshyeta Suryanarayan</i> </li>
         </td>
       </tr>
       <tr>
@@ -93,12 +93,12 @@ The day will follow this program:
    <tr>
       <td><strong></strong></td>
       <td>
-      <li>  Lifting the Lid on the Hebridean Neolithic: Using Organic Residue Analysis to Reconstruct Foodways in the Hebridean Social Landscape. <i>Daniel Brown</i> </li>
-       <li> Coastal or Continental Culture? The French Atlantic Coast during the End of the Neolithic Period. <i>Camisela Prévost</i> </li>
-       <li> Dietary practices of a rural society in Western Germany under Rome: Lipid analysis of pottery covering major historical transitions (1st to 4th century CE). <i>George Janzen</i> </li>
-      <li>  From Organic to Ceramic Remains: The Biomolecular Signature of an Ancient Ferment. <i>Tizona Ben-Gedalya </i></li>
-      <li>  Flahs Talk - 5 A Day: the role of plant substances in the ancient diet of Corsica during Prehistory. <i>Maïlys Turini</i> </li>
-      <li>  Flash Talk - Evidence for intensified dairying at the Corded-Ware cultural horizon in Central and Northern Europe using lipid residue analysis and zooarchaeology. <i>Lizzie Wright</i> </li>
+      <li>  <a href="https://laardcommunity.github.io/abstracts/laard1abstract6/">Lifting the Lid on the Hebridean Neolithic: Using Organic Residue Analysis to Reconstruct Foodways in the Hebridean Social Landscape. </a><i>Daniel Brown</i> </li>
+       <li> <a href="https://laardcommunity.github.io/abstracts/laard1abstract7/">Coastal or Continental Culture? The French Atlantic Coast during the End of the Neolithic Period. </a><i>Camisela Prévost</i> </li>
+       <li> <a href="https://laardcommunity.github.io/abstracts/laard1abstract8/">Dietary practices of a rural society in Western Germany under Rome: Lipid analysis of pottery covering major historical transitions (1st to 4th century CE). </a><i>George Janzen</i> </li>
+      <li>  <a href="https://laardcommunity.github.io/abstracts/laard1abstract9/">From Organic to Ceramic Remains: The Biomolecular Signature of an Ancient Ferment. </a><i>Tizona Ben-Gedalya </i></li>
+      <li>  <a href="https://laardcommunity.github.io/abstracts/laard1abstract10/">Flahs Talk - 5 A Day: the role of plant substances in the ancient diet of Corsica during Prehistory. </a><i>Maïlys Turini</i> </li>
+      <li>  <a href="https://laardcommunity.github.io/abstracts/laard1abstract11/">Flash Talk - Evidence for intensified dairying at the Corded-Ware cultural horizon in Central and Northern Europe using lipid residue analysis and zooarchaeology. </a><i>Lizzie Wright</i> </li>
       </td>
      </tr>
      <tr>
