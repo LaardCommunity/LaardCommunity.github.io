@@ -1,15 +1,24 @@
 ---
 layout: page
-title: Events
+title: Abstracts
 sidebar_link: true
 ---
 
-LAARD is currently planning to hold online and in-person meetings in the near future. Be sure to join our mailing list and follow us on social media to stay up to date!
+Morning session - part 1 9:15-10:45
 
 
-<h2>1st in person meeting</h2>
-<p>The LAARD community will take place on 26 August in Aula 1 (and Aula 2 in the afternoon), Department of Life Sciences and Systems Biology, Via Accademia Albertina 13, Torino., just before the start of the ISBA11 conference. A large number of abstracts were submitted for ISBA11, but only a few of the talks could bee accepted, leading to a lot of ORA work to be be presented as posters. We therefore propose for the day of 26 August: to promote the visibility of as much work on lipids as possible. Please note that this venue is different to the ones where the ISBA11 registration (Via Giuseppe Verdi 8) and cocktail reception (Piazza Castello 191) will take place. Each of these venues are about 10-12 min walk from each other.</p>
-<p>ISBA11 registration will open at 10.00 am and you must register before attending the welcome cocktail (18.00 pm). The LAARD1 programme is busy, but it should allow everyone to register after the discussions. We have also planned a 1.30-hour lunch break, which can be another opportunity to complete your registration.</p>
-<p>The morning presentations can be followed remotely via this Webex link (no registration needed).</p>
-<p>If you have not yet registered to attend LAARD1, please do so with the organge button and remember to pay the luch fees using the yellow button below:</p>
-<p></p>
+<h2>Influence of the Ceramic Matrix on Lipid Retention and Extraction from Archaeological Potteries</h2>
+<p><strong>Yaël Antonaros (1)</strong> - Jehan Waeytens (2) - Kristin Bartik (3) - Alicia Van Ham-Meert (4)</p>
+
+<p>Université libre de Bruxelles, EMNS & 4Mat, Brussels, Belgium (1) - Université libre de Bruxelles, Département enseignement interdisciplinaire en Sciences pharmaceutiques, Brussels, Belgium (2) - Université libre de Bruxelles, EMNS, Brussels, Belgium (3) - Université libre de Bruxelles, 4Mat & CreA-Patrimoine, Brussels, Belgium (4)</p>
+
+<p><strong>Keywords:</strong> Calcium carbonate, Ceramic matrix, Lipids</p>
+</br>
+
+<p>Triacylglycerols, plant sterols, and terpenoids are valuable biomarkers in Organic Residue Analysis. They are generally well preserved within porous unglazed ceramics due to their hydrophobic and chemically stable nature, which help prevent leaching and microbial breakdown. The entrapment and retention of these residues are influenced by the ceramic matrix’s porosity and composition and recent studies have highlighted the potential role of calcium carbonate, commonly used as a temper in archaeological ceramics, in lipid retention and extraction.1,2 The amount of calcium carbonate present could lead to differential recovery of lipids and thus bias the extracted lipidic profile.</p>
+<p>Our project combines traditional mineralogical characterization methods (XRD, XRF, SEM-EDX, Hg μporosimetry) with AFM-IR3, which allows for precise mapping of residues within ceramic matrices, to investigate the influence of the ceramic matrix on lipid extraction. Additionally, we are constructing a reliable model of the cooking processes in different ceramic matrices, in view of obtaining detailed temperature profiles. This will enable to work with a broader dataset and a better understanding of the thermal history of archaeological ceramics, further refining our ability to interpret artefact use and cultural practices.</p>
+
+<p><strong>References:</strong></p>
+<p>1Hammann, S., Scurr, D.J., Alexander, M.R. & Cramp, L.J.E. Mechanisms of lipid preservation in archaeological clay ceramics revealed by mass spectrometry imaging. PNAS 117, 14688–14693, (2020).</p>
+<p>2Cayme, J-M., Vahur, S., Teearu, A., Oras, E., Leito, I. The impact of mineral composition on the yield and preservation of selected fatty acids in replicate archeological ceramics. Journal of Chemical Metrology 18, 95-113 (2024).</p> 
+<p>3Mathurin, J. et al. AFM-IR nanospectroscopy of nanoglobule-like particles in Ryugu samples returned by the Hayabusa2 mission. Astronomy & Astrophysics 684, 1-14 (2024).</p>
