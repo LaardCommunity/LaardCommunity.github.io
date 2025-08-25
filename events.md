@@ -87,7 +87,7 @@ The day will follow this program:
       <td><strong>Break</strong></td>
     </tr>
     <tr>
-      <td><strong>9.15-10.45</strong></td>
+      <td><strong>11.15-12.45</strong></td>
       <td><strong>Morning session - Part 2</strong></td>
     </tr>
    <tr>
