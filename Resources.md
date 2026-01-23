@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Resources
 sidebar_link: true
 ---
 
