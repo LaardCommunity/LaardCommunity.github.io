@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Projects
 sidebar_link: true
 ---
 
