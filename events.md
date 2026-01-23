@@ -6,7 +6,7 @@ sidebar_link: true
 
 LAARD is currently planning to hold online and in-person meetings in the near future. Be sure to join our mailing list and follow us on social media to stay up to date!
 
-<iframe src=https://calendar.google.com/calendar/embed?src=laard.community%40gmail.com&ctz=Europe%2FParis style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<html><iframe src=https://calendar.google.com/calendar/embed?src=laard.community%40gmail.com&ctz=Europe%2FParis style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></html>
 
 <h2>1st in person meeting</h2>
 <p>The LAARD community will take place on 26 August in Aula 1 (and Aula 2 in the afternoon), Department of Life Sciences and Systems Biology, Via Accademia Albertina 13, Torino., just before the start of the ISBA11 conference. A large number of abstracts were submitted for ISBA11, but only a few of the talks could bee accepted, leading to a lot of ORA work to be be presented as posters. We therefore propose for the day of 26 August: to promote the visibility of as much work on lipids as possible. Please note that this venue is different to the ones where the ISBA11 registration (Via Giuseppe Verdi 8) and cocktail reception (Piazza Castello 191) will take place. Each of these venues are about 10-12 min walk from each other.</p>
