@@ -7,6 +7,7 @@ sidebar_link: true
 LAARD is currently planning to hold online and in-person meetings in the near future. Be sure to join our mailing list and follow us on social media to stay up to date!
 
 <iframe src="https://calendar.google.com/calendar/embed?src=laard.community%40gmail.com&ctz=Europe%2FParis" style="border: 0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
+<p></p>
 <html><button
   class="button-join"
   role="button"
