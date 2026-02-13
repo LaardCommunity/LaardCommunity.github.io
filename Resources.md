@@ -5,12 +5,15 @@ sidebar_link: true
 ---
 
 ## Resources
+
+<strong>Guides and good practices.</strong>
+
 <a href="https://historicengland.org.uk/images-books/publications/organic-residue-analysis-and-archaeology/"> Organic Residue Analysis and Archaeology. Guidance for Good Practice </a>
 
 <a href="https://sites.google.com/palaeome.org/chemarch/research-outputs/sampling-guidelines"> Chemarch sampling guidelines: ceramics, resins and other archaeological remains</a>
 
 
-Recent major reviews
+<strong>Recent major reviews</strong>
 
 Roffet-Salque, M., Dunne, J., Altoft, D. T., Casanova, E., Cramp, L. J., Smyth, J., Whelton HL, and Evershed, R. P. (2017) From the inside out: Upscaling organic residue analyses of archaeological ceramics. Journal of Archaeological Science: Reports 16:627-640.
 
@@ -21,13 +24,13 @@ Whelton, H. L., Hammann, S., Cramp, L. J. E., Dunne, J., Roffet-Salque, M. and E
 Cubas, M., Becher, J., Chiang, Y., Dekker, J. A. A., Di Muro, A., Doliente, J. E. and Craig, O. E. (2024). Ceramics: Organic Residue Analysis. In: Rehren, T. and Nikita, E. (Eds). Encyclopedia of Archaeology (Second Edition). 2B: Laboratory Analyses. Cambridge, Massachusetts: Academic Press. pp. 398–405.
 
 
-Useful online tools
+<strong>Useful online tools</strong>
 
-Lipid Maps – a free resource for lipid analysis. These web pages constitute an introduction to the chemistry and biochemistry of individual lipid classes, together with an incomparable compendium of information on mass spectrometry of fatty acids.
+<a href="https://lipidmaps.org/resources/lipid_web?page=index.html">Lipid Maps </a>– a free resource for lipid analysis. These web pages constitute an introduction to the chemistry and biochemistry of individual lipid classes, together with an incomparable compendium of information on mass spectrometry of fatty acids.
 
-OpenChrom® - is an open source software for chromatography, spectrometry and spectroscopy. Data from different systems can be imported and analyzed, hence it’s a vendor independent software
+<a href="https://www.openchrom.net/"> OpenChrom® </a> - is an open source software for chromatography, spectrometry and spectroscopy. Data from different systems can be imported and analyzed, hence it’s a vendor independent software
 
-Media
+<strong>Media</strong>
 
 <a href="https://www.youtube.com/watch?v=yfuPEvU3KBE"> “Organic residue analysis in archaeology: a brief introduction”, by Dr. Oliver Craig </a>
 
