@@ -54,7 +54,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="https://sites.google.com/palaeome.org/chemarch/esr-projects/esr-9-julia-becher" target="_blank"><img src="{{ "/assets/media/julia.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Julia Becher</p>
 <p class="role"><a href="#engagement">Engagement team</a></p>
-<p>UK</p>
+<p>Germany</p>
   <p></p>
 </div>
 
