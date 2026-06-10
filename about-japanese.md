@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: LAARD について
 sidebar_link: true
 ---
 
