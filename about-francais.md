@@ -16,13 +16,6 @@ Inscrivez-vous à notre liste de diffusion:
 
 Vous pourrez ainsi vous impliquer activement et rester informé.es des actualités du réseau.
 
-Please join us on our:
+Pour toute question ou demande d’information complémentaire concernant la communauté LAARD, n’hésitez pas à contacter notre conseil d’administration [**the steering committee**](https://laardcommunity.github.io/Steering-Committee/).
 
-
-to get involved and keep up-to-date!
-
-Pour toute question ou demande d’information complémentaire concernant la communauté LAARD, n’hésitez pas à contacter notre conseil d’administration.
-, [**the steering committee**](https://laardcommunity.github.io/Steering-Committee/).
-
- , 
 <i style="font-size: 10pt">La communauté LAARD est affiliée à [l’International Society for Biomolecular Archaeology (ISBA)](https://isbarch.org), une organisation à but non lucratif enregistrée en Angleterre. L’ISBA fournit une infrastructure ainsi qu’un soutien financier aux activités de LAARD, notamment celles organisées par les étudiantes et étudiants.
