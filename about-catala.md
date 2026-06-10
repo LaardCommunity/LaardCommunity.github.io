@@ -3,33 +3,15 @@ layout: page
 title: About
 sidebar_link: true
 ---
-<!-- Last edit of this page: 10-10-2023> -->
-
 <img src="/assets/media/LOGOFull.png" class="center">
-We are "Lipid Analysis for Archaeological Research Development" (LAARD), a collective of scholars focused on the analysis of ancient lipid residues resulting from human activities.
+Som “Lipid Analysis for Archaeological Research Development” (LAARD), un col·lectiu d’investigadors centrat en l’anàlisi de residus lipídics antics derivats d’activitats humanes.
 
-Our mission at LAARD is to cultivate a welcoming and collaborative atmosphere for researchers in the field of lipid residue analysis. We strive to encourage inquiry, share knowledge, and champion the principles of open and cooperative science.
+La nostra missió a LAARD és fomentar un entorn acollidor i col·laboratiu per als investigadors que treballen en el camp de l’anàlisi de residus lipídics. Volem incentivar la recerca, compartir coneixement i promoure els principis de la ciència oberta i cooperativa.
 
+Et convidem a unir-te a la nostra:
 
-<!-- Blurb from SPAAM, keep for now to copy link structure later
+- [llista de correu](https://docs.google.com/forms/d/e/1FAIpQLSfrmI_n_aEAr3qw6m5bFx1NyG1izryU3uJroSrS5PDpH_teNA/viewform?usp=sf_link) per rebre anuncis, convocatòries i avisos, i així participar i estar al dia de les novetats!
 
-We aim to openly [share](https://PAASTA-community.slack.com/) knowledge and experience to find on solutions to common challenges and obstacles that the field faces.
-We run various collaborative [projects](/projects) for the benefit of the whole community and to progress the field.
-We have various [events and a yearly workshop](/categories/events) with cycling organisation committees to improve networking. -->
+Si tens cap pregunta o vols posar-te en contacte per obtenir més informació sobre la comunitat LAARD, [**el comitè directiu**](https://laardcommunity.github.io/Steering-Committee/)  està a la teva disposició per ajudar-te.
 
-Please join us on our:
-
-- [**mailing list**](https://docs.google.com/forms/d/e/1FAIpQLSfrmI_n_aEAr3qw6m5bFx1NyG1izryU3uJroSrS5PDpH_teNA/viewform?usp=sf_link) for announcements, calls, and notices.
-
-<!-- Add more of these later as they become applicable, also paraphrase above text on slack and twitter. Now direct copy from SPAAM.
-
-
-- [**mastodon**](htthttps://genomic.social/@PAASTA_community) for latest news, polls, and publications.
--->
-
-to get involved and keep up-to-date!
-
-If you have any questions or want to reach out for more info about our LAARD community, [**the steering committee**](https://laardcommunity.github.io/Steering-Committee/) is here to assist you.
-
-
-<i style="font-size: 10pt">The LAARD Community is an affiliate of [The International Society for Biomolecular Archaeology (ISBA)](https://isbarch.org), a Charitable Incorporated Organisation registered in England. ISBA provides infrastructural and financial support of the student-led activities of LAARD.</i>
+<i style="font-size: 10pt">La Comunitat LAARD és una entitat afiliada a la [The International Society for Biomolecular Archaeology (ISBA)](https://isbarch.org), una organització benèfica registrada a Anglaterra. ISBA proporciona suport infraestructural i financer a les activitats liderades per estudiants dins de LAARD.</i>
