@@ -68,10 +68,6 @@ They contain div class "member" blocks that have the picture of each member foll
 
 </div>
 
-
-
-
-
 ## Roles
 
 **Management team** <a id="management"></a>
