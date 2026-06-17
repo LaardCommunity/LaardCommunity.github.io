@@ -86,3 +86,10 @@ $root-font-family: -apple-system, "Varela Round", Arial, sans-serif !default;
   color: #000;
   font-weight: bold;
 }
+
+.flexcontent {
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
