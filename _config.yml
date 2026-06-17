@@ -18,7 +18,7 @@ baseurl:
 remote_theme: fongandrew/hydeout
 
 author:
-  name: "PAASTA Community"
+  name: "LAARD Community"
   url: https://laardcommunity.github.io/
 
 paginate: 5
@@ -26,6 +26,10 @@ paginate: 5
 # Or '/blog/page:num' if you want to move your index pages
 
 comments: false
+
+collections:
+  events:
+    output: true
 
 plugins:
   - jekyll-feed
