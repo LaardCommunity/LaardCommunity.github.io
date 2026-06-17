@@ -24,7 +24,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class ="member">
 <div class="square"><a href="https://www.flsh.ulaval.ca/notre-faculte/repertoire-du-personnel/karine-tache" target="_blank"><img src="{{ "/assets/media/karine.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Karine Taché</p>
-<p class="role"><a href="#management">vice-Chair/Treasurer</a></p>
+<p class="role"><a href="#management">Vice-Chair/Treasurer</a></p>
 <p>Canada</p>
   <p></p>
 </div>
@@ -43,7 +43,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://researchmap.jp/shoda_shinya?lang=en" target="_blank"><img src="{{ "/assets/media/LOGOS.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://orcid.org/0000-0002-9419-0401" target="_blank"><img src="{{ "/assets/media/nadia.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Nàdia Tarifa Mateo</p>
 <p class="role"><a href="#engagement">Engagement team</a></p>
 <p>Spain</p>
