@@ -1,19 +1,55 @@
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="Element" role="img" viewBox="0 0 512 512" width="50px" height="50px" fill="#000000">
 
-<g id="SVGRepo_bgCarrier" stroke-width="0"/>
-
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-
-<g id="SVGRepo_iconCarrier">
-
-
-<circle cx="256" cy="256" fill="#fffffff" r="192"/>
-
-<path fill="none" stroke="#7b2d8a" stroke-width="28.155" stroke-linecap="round" d="m153.25 277.15c.47-46.35 37.79-81.6 81.6-81.6m0-42.3c46.35.47 81.6 37.79 81.6 81.6m42.3 0c-.47 46.35-37.79 81.6-81.6 81.6m0 42.3c-46.35 0-81.6-37.79-81.6-81.6"/>
-
-</g>
-
+<svg
+   aria-label="Element"
+   role="img"
+   viewBox="0 0 512 512"
+   width="50px"
+   height="50px"
+   fill="#000000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="element.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="13.237039"
+     inkscape:cx="23.154725"
+     inkscape:cy="23.532453"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1072"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0"
+     style="display:none" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     style="display:none" />
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="matrix(1.3333333,0,0,1.3333333,-85.333325,-85.333325)">
+    <path
+       id="circle1"
+       d="M 256,64 A 192,192 0 0 0 64,256 192,192 0 0 0 256,448 192,192 0 0 0 448,256 192,192 0 0 0 256,64 Z m -21,75.18 c 53.83306,0.54588 95.52,44.29873 95.52,95.66 a 14.0775,14.0775 0 0 1 -14.08,14.08 14.0775,14.0775 0 0 1 -14.06,-14.08 c 0,-36.25873 -28.81306,-67.12588 -67.68,-67.52 A 14.0775,14.0775 0 0 1 220.78,153.1 14.0775,14.0775 0 0 1 235,139.18 Z m -0.16,42.3 a 14.0775,14.0775 0 0 1 14.08,14.08 14.0775,14.0775 0 0 1 -14.08,14.06 c -36.25873,0 -67.12588,28.81306 -67.52,67.68 A 14.0775,14.0775 0 0 1 153.1,291.22 14.0775,14.0775 0 0 1 139.18,277 c 0.54588,-53.83306 44.29873,-95.52 95.66,-95.52 z m 124.06,39.3 A 14.0775,14.0775 0 0 1 372.82,235 c -0.54588,53.83306 -44.29873,95.52 -95.66,95.52 a 14.0775,14.0775 0 0 1 -14.08,-14.08 14.0775,14.0775 0 0 1 14.08,-14.06 c 36.25873,0 67.12588,-28.81306 67.52,-67.68 a 14.0775,14.0775 0 0 1 14.22,-13.92 z m -163.34,42.3 a 14.0775,14.0775 0 0 1 14.06,14.08 c 0,36.25873 28.84176,67.52 67.54,67.52 a 14.0775,14.0775 0 0 1 14.06,14.08 14.0775,14.0775 0 0 1 -14.06,14.06 c -54.00176,0 -95.68,-44.29873 -95.68,-95.66 a 14.0775,14.0775 0 0 1 14.08,-14.08 z" />
+  </g>
 </svg>
