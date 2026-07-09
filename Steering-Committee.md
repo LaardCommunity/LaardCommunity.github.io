@@ -30,7 +30,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.york.ac.uk/archaeology/people/jasmine-lundy/" target="_blank"><img src="{{ "/assets/media/LOGOS.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.york.ac.uk/archaeology/people/jasmine-lundy/" target="_blank"><img src="{{ "/assets/media/jasmine.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jasmine Lundy</p>
 <p class="role"><a href="#management">Secretary</a></p>
 <p class="role"><a href="#communications">Communications team</a></p>
