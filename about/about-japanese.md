@@ -2,6 +2,7 @@
 layout: page
 title: LAARD について
 sidebar_link: true
+back_page: about.md
 ---
 
 <img src="/assets/media/LOGOFull.png" class="center">

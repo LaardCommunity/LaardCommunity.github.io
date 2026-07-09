@@ -8,37 +8,37 @@ sidebar_link: true
 <html><div class="flexcontent">
     <a id="de-link"
        class="icon" title="About (German)" aria-label="About (German)"
-       href="/about-german/">
+       href="/about/about-german/">
       {% include svg/de.svg %}
     </a>
     <a id="es-ct-link"
        class="icon" title="About (Catalan)" aria-label="About (Catalan)"
-       href="/about-catala/">
+       href="/about/about-catala/">
       {% include svg/es-ct.svg %}
     </a>
     <a id="es-link"
        class="icon" title="About (Spanish)" aria-label="About (Spanish)"
-       href="/about-castellano/">
+       href="/about/about-castellano/">
       {% include svg/es.svg %}
     </a>
     <a id="fr-link"
        class="icon" title="About (French)" aria-label="About (French)"
-       href="/about-francais/">
+       href="/about/about-francais/">
       {% include svg/fr.svg %}
     </a>
     <a id="it-link"
        class="icon" title="About (Italian)" aria-label="About (Italian)"
-       href="/about-italian/">
+       href="/about/about-italian/">
       {% include svg/it.svg %}
     </a>
     <a id="jp-link"
        class="flicon" title="About (Japanese)" aria-label="About (Japanese)"
-       href="/about-japanese/" outline="1px solid black">
+       href="/about/about-japanese/" outline="1px solid black">
       {% include svg/jp.svg %}
     </a>
     <a id="tr-link"
        class="icon" title="About (Turkish)" aria-label="About (Turkish)"
-       href="/about-turkish/">
+       href="/about/about-turkish/">
       {% include svg/tr.svg %}
     </a>
 </div></html>
