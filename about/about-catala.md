@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 back_page: about.md
 ---
-<img src="/assets/media/LOGOFull.png" class="center">
+<img src="/assets/media/LOGOFull.png" class="center" alt="The LAARD logo">
 Som “Lipid Analysis for Archaeological Research Development” (LAARD), un col·lectiu d’investigadors centrat en l’anàlisi de residus lipídics antics derivats d’activitats humanes.
 
 La nostra missió a LAARD és fomentar un entorn acollidor i col·laboratiu per als investigadors que treballen en el camp de l’anàlisi de residus lipídics. Volem incentivar la recerca, compartir coneixement i promoure els principis de la ciència oberta i cooperativa.

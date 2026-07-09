@@ -43,7 +43,7 @@ sidebar_link: true
     </a>
 </div></html>
 
-<img src="/assets/media/LOGOFull.png" class="center">
+<img src="/assets/media/LOGOFull.png" class="center" alt="The LAARD logo">
 We are "Lipid Analysis for Archaeological Research Development" (LAARD), a collective of scholars focused on the
 analysis of ancient lipid residues resulting from human activities.
 
