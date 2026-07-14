@@ -46,6 +46,7 @@ permalink: pretty
 
 future: true
 
+# Set the back_page for all "post" pages to the homepage (index.html)
 defaults:
   -
     scope:
