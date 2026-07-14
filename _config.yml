@@ -45,3 +45,11 @@ sidebar_home_link: false
 permalink: pretty
 
 future: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      back_page: "index.html"
