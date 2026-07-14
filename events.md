@@ -4,8 +4,8 @@ title: Events
 sidebar_link: true
 ---
 
-We are planning to hold online and in-person meetings in the near future. Be sure to join our mailing list and follow us
-on social media to stay up to date!
+We hold regular online and in-person meetings – be sure to join our mailing list and follow us on social media to stay
+up to date!
 
 <iframe
   src="https://calendar.google.com/calendar/embed?src=laard.community%40gmail.com&ctz=Europe%2FParis"
