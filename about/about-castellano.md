@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: Sobre nosotros
 sidebar_link: true
 back_page: about.md
 ---
 
+<img src="/assets/media/LOGOFull.png" class="center" alt="nuestro logotipo">
 
-<img src="/assets/media/LOGOFull.png" class="center" alt="The LAARD logo">
 Somos “Lipid Analysis for Archaeological Research Development” (LAARD), un colectivo de investigadores centrado en el
 análisis de residuos lipídicos antiguos derivados de actividades humanas.
 

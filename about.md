@@ -41,6 +41,16 @@ sidebar_link: true
        href="/about/about-turkish/">
       {% include svg/tr.svg %}
     </a>
+    <a id="gr-link"
+       class="icon" title="About (Greek)" aria-label="About (Greek)"
+       href="/about/about-ellinika/">
+      {% include svg/gr.svg %}
+    </a>
+    <a id="cn-link"
+       class="icon" title="About (Mandarin)" aria-label="About (Mandarin)"
+       href="/about/about-chinese/">
+      {% include svg/cn.svg %}
+    </a>
 </div></html>
 
 <img src="/assets/media/LOGOFull.png" class="center" alt="The LAARD logo">
@@ -51,11 +61,8 @@ Our mission at LAARD is to cultivate a welcoming and collaborative atmosphere fo
 residue analysis. We strive to encourage inquiry, share knowledge, and champion the principles of open and cooperative
 science.
 
-Please join us on our:
-
-- [**mailing list**](https://docs.google.com/forms/d/e/1FAIpQLSfrmI_n_aEAr3qw6m5bFx1NyG1izryU3uJroSrS5PDpH_teNA/viewform?usp=sf_link) for announcements, calls, and notices.
-
-to get involved and keep up-to-date!
+Please join us on our [**mailing list**](https://docs.google.com/forms/d/e/1FAIpQLSfrmI_n_aEAr3qw6m5bFx1NyG1izryU3uJroSrS5PDpH_teNA/viewform?usp=sf_link)
+for announcements, calls, notices and to get involved and keep up-to-date!
 
 If you have any questions or want to reach out for more info about our LAARD community, the
 [**Steering Committee**](/Steering-Committee/) are here to assist you.
