@@ -3,9 +3,11 @@ layout: page
 title: About
 sidebar_link: true
 ---
-<!-- Last edit of this page: 10-10-2023> -->
+<!-- Last edit of this page: 20260903> -->
 
-<html><div class="flexcontent">
+<html>
+  <br>
+  <div class="flexcontent">
     <a id="de-link"
        class="icon" title="About (German)" aria-label="About (German)"
        href="/about/about-german/">
