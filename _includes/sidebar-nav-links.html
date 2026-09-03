@@ -1,4 +1,6 @@
 <nav id="sidebar-nav-links">
+
+  <!-- These two are False for us (set in _config.yml) -->
   {% if site.sidebar_home_link %}
     <a class="home-link {% if page.url == '/' %} active{% endif %}"
         href="{{ "/" | relative_url }}">Home</a>

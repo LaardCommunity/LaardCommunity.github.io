@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Abstracts
-sidebar_link: true
 ---
 
 Morning session - part 1 11:15-12:45
