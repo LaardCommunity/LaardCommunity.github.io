@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Über uns
-sidebar_link: true
 back_page: about.md
 ---
 

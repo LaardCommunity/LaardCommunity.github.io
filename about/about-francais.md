@@ -1,7 +1,6 @@
 ---
 layout: page
 title: À propos
-sidebar_link: true
 back_page: about.md
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Σχετικά με εμάς
-sidebar_link: true
 back_page: about.md
 ---
 <img src="/assets/media/LOGOFull.png" class="center" alt="το λογότυπό μας">

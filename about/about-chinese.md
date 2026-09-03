@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 关于我们
-sidebar_link: true
 back_page: about.md
 ---
 <img src="/assets/media/LOGOFull.png" class="center" alt="The LAARD logo">
