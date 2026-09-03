@@ -93,3 +93,11 @@ $root-font-family: -apple-system, "Varela Round", Arial, sans-serif !default;
   display: flex;
   flex-direction: row;
 }
+
+.inline-img {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  height: 0.9rem;
+}
