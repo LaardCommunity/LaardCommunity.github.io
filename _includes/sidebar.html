@@ -1,15 +1,15 @@
 <div id="sidebar" style="height:100%">
  
   <header>
-    <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
-        {% unless page.url == "/" %}
-          <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
-        {% endunless %}
-        <a href="/">
-  <img src="/assets/media/LOGOC2.png" alt="LAARD Community" class="center" role="log"/>
+      <a href="/">
+        <img src="/assets/media/LOGOC2.png" alt="LAARD Community" class="center" role="log"/>
       </a>
-    </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
-    <p class="lead">{{ site.description }}</p>
+
+    {% if page.layout == "index" %}
+      <p class="lead">Lipid <br> Analysis for <br> Archaeological <br> Research <br> Development</p>
+    {% else %}
+      <p class="lead">{{ site.description }}</p>
+    {% endif %}
   </header>
 
   <a href="/about">About</a> 
@@ -21,8 +21,7 @@
   <a href="/Constitution">Constitution</a>
   <a href="/Code-of-Conduct">Code of Conduct</a>
   <a href="/Support-Aknowledgements">Acknowledgements</a>
-
-  </nav>
+  
   {% if site.version %}
     <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
